@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @GustavLemos, i am a data engineer and formerly a full stack developer.I seek to become a partner in a startup.
-- 👀 I'm interested in automation projects, Data Architect, Data Engineer, ETL projects, intelligent data driven manipulation and artificial intelligence.
-- 🌱I'm currently learning about machine learning and cloud data lakes like: AWS, Gooogle Cloud Platform, Hadoop On-premisses (cloudera) and Azure Microsoft.
-- 💞️I'm looking to collaborate on digital transformation startups with a focus on data driven and market invocations, , in the field of marketing, sales, back office, automation of financial investments and banking operations
-- 📫You can find or contact me through my linkedin: https://www.linkedin.com/in/gustavo-lemos-796b33182/ , or directly on my website : https://sites.google.com/view/cvgustavolemosdossantos/p%C3%A1gina-inicial.
+- 👋 Hi, I’m @GustavLemos, a Data Engineer with a background as a Full Stack Developer. I'm passionate about contributing to startups and growing alongside innovative projects.
+- 👀 I specialize in **Automation**, **Data Architecture**, **Data Engineering**, **ETL processes**, intelligent data manipulation, and **Artificial Intelligence**.
+- 🌱 Currently, I'm diving into **Machine Learning** and gaining expertise in **cloud data lakes**, including platforms like **AWS**, **Google Cloud Platform**, **Hadoop on-premises (Cloudera)**, and **Azure**.
+- 💞️ I'm eager to collaborate on **digital transformation projects** for startups, focusing on data-driven strategies and market innovation, particularly in **marketing**, **sales**, **back-office automation**, **financial investments**, and **banking operations**.
+- 📫 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/gustavo-lemos-796b33182/) or explore my portfolio on [my website](https://sites.google.com/view/cvgustavolemosdossantos/p%C3%A1gina-inicial).
 
 <!---
-!
+Feel free to reach out! Let's innovate together.
 --->
